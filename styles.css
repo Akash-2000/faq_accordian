@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'WorkSans';
+    src: url('./assets/fonts/WorkSans-Italic-VariableFont_wght.ttf') format('ttf'),
+         url('./assets/fonts/WorkSans-VariableFont_wght.ttf') format('ttf');
+    /* Add more file formats if needed */
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body{
+    background-color: rgb(255, 227, 254);
+    margin:0px;
+    padding:0px;
+}
